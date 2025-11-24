@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Yinglan
+## 👋 Hi, I'm Yinglan(楹蓝星)
 
 ### 🧭 About Me
 - Name: **Yinglan**  
