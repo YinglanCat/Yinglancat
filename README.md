@@ -40,6 +40,7 @@ and the world of **software**, where ideas become apps, APIs, and products.
 - Automation & DevOps
 
 ### ✨ Philosophy
+** I work on stuff never been done before **
 I build things because I enjoy seeing ideas turn into reality —  
 whether that’s through a circuit, a waveform on an oscilloscope,  
 or a piece of code running smoothly in production.
